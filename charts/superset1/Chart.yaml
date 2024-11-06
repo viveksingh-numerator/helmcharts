@@ -17,10 +17,10 @@ keywords:
 - business intelligence
 - data science
 maintainers:
-- email: craig@craigrueda.com
-  name: craig-rueda
-  url: https://github.com/craig-rueda
+- email: vivek.singh
+  name: viveksingh-numerator
+  url: https://github.com/viveksingh-numerator
 name: superset
 sources:
-- https://github.com/apache/superset
+- https://github.com/viveksingh-numerator/bi-superset
 version: 0.12.11
